@@ -10,4 +10,4 @@ I made this website for a janaseva kendra center. This website will show what se
 
 I'm also created a qrcode scanner for this website
 
-[](./Assets/janaseva-website.png)
+![image](./Assets/janaseva-website.png)
